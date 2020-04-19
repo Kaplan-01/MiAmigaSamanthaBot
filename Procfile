@@ -1,1 +1,1 @@
-web: python app.py $PORT
+web: python bot_samanthapdf.py $PORT
