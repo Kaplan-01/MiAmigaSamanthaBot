@@ -9,9 +9,9 @@ Original file is located at
 # Instalar Telegram API
 """
 
-!pip install python-telegram-bot==5.3.0
-!pip install pyTelegramBotAPI
-!pip install --user pyTelegramBotAPI
+#!pip install python-telegram-bot==5.3.0
+#!pip install pyTelegramBotAPI
+#!pip install --user pyTelegramBotAPI
 
 """# Configurar Google Drive"""
 
