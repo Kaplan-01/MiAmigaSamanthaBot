@@ -1,1 +1,1 @@
-web: python bot_samanthamandapdf.py $PORT
+web: python bot_samantha.py $PORT
