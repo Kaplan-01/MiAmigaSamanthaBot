@@ -5,7 +5,6 @@ pyTelegramBotAPI
 telebot
 time
 requests
-tensorflow as tf
 sys
 os
 logging
