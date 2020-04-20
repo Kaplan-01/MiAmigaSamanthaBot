@@ -3,7 +3,7 @@ web.py==0.40
 python-telegram-bot==5.3.0
 pyTelegramBotAPI
 telebot
-time
+time==3.6
 requests
 sys
 os
