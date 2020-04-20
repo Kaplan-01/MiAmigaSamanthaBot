@@ -157,7 +157,7 @@ def echo(bot, update):
         print(texto)
         print(id_user)
 
-        time.sleep(1)
+      #  time.sleep(1)
 
         if "hola" in texto or "HOLA" in texto or "Hola" in texto or "Hello" in texto or "hi" in texto or "Hi" in texto or "Hello" in texto:
           regreso="Holaa, te extrañaba mucho. Como te sientes hoy?"
