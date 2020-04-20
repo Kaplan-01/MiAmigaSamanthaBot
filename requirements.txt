@@ -1,5 +1,4 @@
 virtualenv==20.0.4
 web.py==0.40
-install python-telegram-bot==5.3.0
-pip install pyTelegramBotAPI
-pip install --user pyTelegramBotAPI
+python-telegram-bot==5.3.0
+pyTelegramBotAPI
