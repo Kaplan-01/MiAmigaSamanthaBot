@@ -2,3 +2,11 @@ virtualenv==20.0.4
 web.py==0.40
 python-telegram-bot==5.3.0
 pyTelegramBotAPI
+import telebot
+import time
+import requests
+import tensorflow as tf
+import sys
+import os
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+import logging
