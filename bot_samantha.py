@@ -30,15 +30,15 @@ drive.mount('/content/drive')
 # Commented out IPython magic to ensure Python compatibility.
 # %tensorflow_version 1.x
 TOKEN = '1103080962:AAGAxFcDL-lu3BMKNAuuNnHy-DSDvGY3RtY'
-import telebot
-import time
-import requests
-import tensorflow as tf
-import sys
-import os
+#import telebot
+#import time
+#import requests
+#import tensorflow as tf
+#import sys
+#import os
 tb = telebot.TeleBot(TOKEN)
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-import logging
+#from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+#import logging
 
 print("Librerías importadas correctamente")
 
