@@ -22,8 +22,8 @@ drive.mount('/content/drive')
 
 # Commented out IPython magic to ensure Python compatibility.
 # %cd 'drive/My Drive/classify_bot'
-!pwd
-!ls
+#!pwd
+#!ls
 
 """# Librerias"""
 
