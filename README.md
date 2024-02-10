@@ -5,8 +5,6 @@ Un bot que te hará **compañía** en tus momentos de soledad, ademas de compart
 
 ![Example](https://github.com/MariaDelCarmenHernandezDiaz/MiAmigaSamanthaBot/blob/master/1.jpg "Samantha")
 
-![Example](https://github.com/MariaDelCarmenHernandezDiaz/MiAmigaSamanthaBot/blob/master/2.jpg "Samantha")
-
 ![Example](https://github.com/MariaDelCarmenHernandezDiaz/MiAmigaSamanthaBot/blob/master/3.jpg "Samantha")
 
 ***
